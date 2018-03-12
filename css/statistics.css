@@ -50,3 +50,30 @@ body{
   text-align:center;
   background-color:hsl(240, 100%, 25%);
 }
+#body{
+  background-color: grey;
+}
+#four{
+  height:50px;
+  margin-top:175px;
+  width: 100px;
+  background-color: red;
+}
+#five{
+  height:50px;
+  margin-top:175px;
+  width: 100px;
+  background-color: red;
+}
+#six{
+  height:50px;
+  margin-top:175px;
+  width: 100px;
+  background-color: red;
+}
+#seven{
+  height:50px;
+  margin-top:175px;
+  width: 100px;
+  background-color: red;
+}
