@@ -3,6 +3,7 @@ body{
   font-family: 'Poiret One', cursive;
   margin-left:0px;
   margin-right:0px;
+  margin-bottom:0px;
 }
 #topbar{
   width:auto;
@@ -117,4 +118,31 @@ body{
   position: relative;
   bottom: 38px;
   text-align: right;
+}
+#footer{
+  width:auto;
+  height:40px;
+  background-color:hsl(240, 100%, 25%);
+}
+.footert{
+  color:white;
+}
+#disc{
+  position:relative;
+  float:left;
+  padding-left:20px;
+  padding-top:10px;
+}
+#priv{
+  position:relative;
+  float:left;
+  padding-left:20px;
+  padding-top:10px;
+}
+#tm{
+  position:relative;
+  float:right;
+  margin-right:10px;
+  margin-bottom:0px;
+  margin-top:10px;
 }
