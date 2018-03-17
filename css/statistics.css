@@ -62,67 +62,69 @@ body{
   text-align: center;
 }
 #five{
-  height:50px;
-  margin-top:75px;
+  height:30px;
+  margin-top:40px;
   width: 90%;
   position: relative;
   left: 100px;
   background-color: red;
 }
 #seven{
-  height:50px;
-  margin-top:75px;
+  height:30px;
+  margin-top:40px;
   width: 80%;
   position: relative;
   left: 100px;
-  background-color: red;
+  background-color: orange;
 }
 #nine{
-  height:50px;
-  margin-top:75px;
+  height:30px;
+  margin-top:40px;
   width: 88%;
   position: relative;
   left: 100px;
-  background-color: red;
+  background-color: yellow;
 }
 #eleven{
-  height:50px;
-  margin-top:75px;
+  height:30px;
+  margin-top:40px;
   width: 60%;
   position: relative;
   left: 100px;
-  background-color: red;
+  background-color: green;
 }
 #thirteen{
-  height:50px;
-  margin-top:75px;
+  height:30px;
+  margin-top:40px;
   width: 75%;
   position: relative;
   left: 100px;
-  background-color: red;
+  background-color: #3333ff;
 }
 #fifteen{
-  height:50px;
-  margin-top:75px;
+  height:30px;
+  margin-top:40px;
   width: 70%;
   position: relative;
   left: 100px;
-  background-color: red;
+  background-color: #4d4dff;
 }
 .yeartag{
   position: relative;
   right: 80px;
-  top: 10px;
+  top: 0px;
 }
 .percentage{
   position: relative;
-  bottom: 38px;
+  bottom: 47px;
   text-align: right;
 }
 #footer{
-  width:auto;
+  width:100%;
   height:40px;
   background-color:hsl(240, 100%, 25%);
+  position: absolute;
+  bottom: 0px;
 }
 .footert{
   color:white;
