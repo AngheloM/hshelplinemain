@@ -130,12 +130,12 @@ body{
   color: black;
   position: relative;
   float:left;
-  background-color: blue;
+  width: 50%;
   height: 300px;
 }
 #countygraphheader{
   position: relative;
-  left: 20px;
+  text-align: center;
 }
 #nationalgraphcontainer{
   color: black;
@@ -143,11 +143,10 @@ body{
   float:right;
   width: 50%;
   height: 300px;
-  background-color: red;
 }
 #nationalgraphheader{
   position: relative;
-  right: 20px;
+  text-align: center;
 }
 #suicidetext{
   color: white;
